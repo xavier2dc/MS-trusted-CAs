@@ -10,3 +10,15 @@ The PHP script needs "allow_url_fopen = On" in your php.ini configuration file.
 ```
 mscert.cmd
 ```
+
+## Output
+ms-cert.crt
+```
+-----BEGIN CERTIFICATE-----
+MIID[...]
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIG[...]
+-----END CERTIFICATE-----
+[...]
+```
